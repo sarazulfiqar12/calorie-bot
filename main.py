@@ -1,6 +1,5 @@
 import os
 import threading
-import requests
 import base64
 from http.server import HTTPServer, BaseHTTPRequestHandler
 from groq import Groq
